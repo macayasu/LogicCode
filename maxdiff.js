@@ -13,3 +13,4 @@ function maxDifference(arr) {
     }
     return maxDiff;
   }
+
